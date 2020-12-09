@@ -1,3 +1,6 @@
 我编辑了c.txt
 
 我再次编辑了C.txt
+
+
+wogaile c
